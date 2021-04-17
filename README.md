@@ -1,4 +1,4 @@
-### tic_tac_toe
+## tic_tac_toe
 This is one of my first codes as a beginner
 I used lists mostly(because that was the requirement then :-)) 
 Should a change be necessary I will change it. 
